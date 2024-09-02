@@ -1,1 +1,2 @@
 # GItHutCreationPractise
+# Practises of GitHub
